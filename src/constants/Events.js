@@ -1,0 +1,3 @@
+const EVENTS = {
+    NEW_MESSAGE: "NEW_MESSAGE"
+}
